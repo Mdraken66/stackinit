@@ -2,6 +2,8 @@
 
 > **Stop copy-pasting ESLint, Prettier, and CI configs.** `stackinit` does it once, correctly, and never overwrites your existing files.
 
+**📦 [Install from npm](https://www.npmjs.com/package/stackinit)** | **⭐ [Star on GitHub](https://github.com/nupurkale78/stackinit)**
+
 [![npm version](https://img.shields.io/npm/v/stackinit.svg)](https://www.npmjs.com/package/stackinit)
 [![npm downloads](https://img.shields.io/npm/dm/stackinit.svg)](https://www.npmjs.com/package/stackinit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
