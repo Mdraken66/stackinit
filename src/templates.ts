@@ -9,6 +9,17 @@ export interface Templates {
   envExample: string;
 }
 
+interface ESLintConfig {
+  root: boolean;
+  env: Record<string, boolean>;
+  extends: string[];
+  parserOptions: Record<string, unknown>;
+  rules: Record<string, string | number>;
+  parser?: string;
+  plugins?: string[];
+  settings?: Record<string, unknown>;
+}
+
 export function getTemplates(projectInfo: ProjectInfo, options: Options): Templates {
   return {
     eslint: getESLintConfig(projectInfo, options),
@@ -25,7 +36,7 @@ function getESLintConfig(projectInfo: ProjectInfo, options: Options): string {
   const hasTypeScript = projectInfo.hasTypeScript;
   const isReact = projectInfo.type === 'react' || projectInfo.type === 'nextjs' || projectInfo.type === 'vite';
 
-  const config: any = {
+  const config: ESLintConfig = {
     root: true,
     env: {
       node: true,
