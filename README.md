@@ -2,7 +2,11 @@
 
 > Initialize a consistent development environment for Node-based projects with a single command.
 
+[![npm version](https://img.shields.io/npm/v/stackinit.svg)](https://www.npmjs.com/package/stackinit)
+[![npm downloads](https://img.shields.io/npm/dm/stackinit.svg)](https://www.npmjs.com/package/stackinit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/nupurkale78/stackinit.svg)](https://github.com/nupurkale78/stackinit)
+[![GitHub issues](https://img.shields.io/github/issues/nupurkale78/stackinit.svg)](https://github.com/nupurkale78/stackinit/issues)
 
 ## Philosophy
 
